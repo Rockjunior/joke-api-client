@@ -1,4 +1,4 @@
-# simple-api-client
+# joke-api-client
 
 ![Saiket Systems Internship Program](images/saiket.png)
 
